@@ -1,7 +1,6 @@
-[![license](https://img.shields.io/github/license/tomori-hikage/json-formatter.svg?style=flat-square)](https://github.com/tomori-hikage/json-formatter/blob/master/LICENSE)
-[![release](https://img.shields.io/github/release/tomori-hikage/json-formatter.svg?style=flat-square)](https://github.com/tomori-hikage/json-formatter/releases)
-[![GitHub](https://img.shields.io/github/followers/tomori-hikage.svg?label=@tomori-hikage&style=social)](https://github.com/tomori-hikage)
-[![Twitter](https://img.shields.io/twitter/follow/tomori_hikage.svg?label=@tomori_hikage&style=social)](https://twitter.com/tomori_hikage)
+[![license](https://img.shields.io/github/license/karashinasou/json-formatter.svg?style=flat-square)](https://github.com/karashinasou/json-formatter/blob/master/LICENSE)
+[![release](https://img.shields.io/github/release/karashinasou/json-formatter.svg?style=flat-square)](https://github.com/karashinasou/json-formatter/releases)
+[![GitHub](https://img.shields.io/github/followers/karashinasou.svg?label=@karashinasou&style=social)](https://github.com/karashinasou)
 
 # json-formatter
 
